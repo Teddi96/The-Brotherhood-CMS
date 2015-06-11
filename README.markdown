@@ -28,7 +28,7 @@ To generate your own you can use the feature on the admin/login.php page
 
 - admin/login.php?hash= 
 
-Then insert a new row in the database under the table "users". 
+Then insert a new row in the database under the table *users* 
 
 [Loki123 @ Hackforums.net](http://www.hackforums.net/member.php?action=profile&uid=271731)
 
