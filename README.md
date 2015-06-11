@@ -21,7 +21,7 @@ Please don't flame my coding, I've learned a lot while working on this and there
 - MySQL server
 
 
-** Admin User **
+**Admin User**
 
 The password for the admin page is hashed using bcrypt.
 To generate your own you can use the feature on the admin/login.php page
