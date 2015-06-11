@@ -1,6 +1,7 @@
 # Brotherhood CMS site 
 
 **What is this ?**
+
 This site is aimed towards making group leaders life easier on Hackforums.net, it takes care of many tasks and few of them listed here below
 - Blacklisted members
 - News feed
@@ -14,12 +15,14 @@ Please don't flame my coding, I've learned a lot while working on this and there
 
 
 **Requirements** 
+
 - Nginx, Apache, Cherokee.. 
 - PHP 5.5 or later
 - MySQL server 
 
 
-** Admin User ** 
+**Admin User** 
+
 The password for the admin page is hashed using bcrypt.
 To generate your own you can use the feature on the admin/login.php page 
 
@@ -28,4 +31,5 @@ To generate your own you can use the feature on the admin/login.php page
 Then insert a new row in the database under the table "users". 
 
 [Loki123 @ Hackforums.net](http://www.hackforums.net/member.php?action=profile&uid=271731)
+
 [PinkPanther @ Hackforums.net](http://www.hackforums.net/member.php?action=profile&uid=1428250) 
